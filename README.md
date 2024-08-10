@@ -25,7 +25,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/web-search-agent.git
+   git clone https://github.com/LikhithV02/Web-Search-Agent-with-FastAPI-and-Streaming.git
    cd web-search-agent
    ```
 
